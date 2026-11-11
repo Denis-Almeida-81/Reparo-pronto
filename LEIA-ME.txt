@@ -1,0 +1,9 @@
+REPARO PRONTO — DENIS ALMEIDA
+
+O cartão está pronto para publicação. O botão do WhatsApp já está configurado para o número informado.
+
+Para publicar no Netlify, arraste a pasta reparo-pronto para o deploy manual do Netlify.
+
+Arquivos:
+- index.html: página do cartão
+- styles.css: estilos responsivos
